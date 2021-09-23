@@ -1,0 +1,4 @@
+#Thu Sep 23 14:09:58 CST 2021
+base.0=/Users/apple/Desktop/Tech_now_tv_flutter_bmi/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

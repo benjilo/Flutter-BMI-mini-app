@@ -1,7 +1,8 @@
 # bmi
+![FLUTTER-BMI](https://user-images.githubusercontent.com/1903981/134988634-1c8dd6ce-b891-42f6-8c98-3975ca2d1c19.jpg)
+
 
 A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
